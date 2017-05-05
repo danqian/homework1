@@ -40,12 +40,30 @@ Plastic shell of whale shape X1
 Plastic Connector(Connect Watercontainer and shell) X1
 
 #### 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
-- Switches look like this: ![](image/IMG_2072.jpg)
+- Switches look like this: ![](images/IMG_2513.JPG)
+
+- Switches look like this: ![](images/IMG_2519.JPG)
+
+- Switches look like this: ![](images/IMG_2520.JPG)
+
+- Switches look like this: ![](images/IMG_2521.JPG)
+
+- Switches look like this: ![](images/IMG_2523.JPG)
+
+- Switches look like this: ![](images/IMG_2522.JPG)
+
+- Switches look like this: ![](images/IMG_2524.JPG)
+
+- Switches look like this: ![](images/IMG_2072.JPG)
+
+- Switches look like this: ![](images/IMG_2304.JPG)
+
 
 
 5. A short video (cellphone is fine) of the operational project
 
 6. Program(s) must be well commented
+[Code](homework1/finalProject/code_finalproject)
 7. Each variable must have a meaningful name
 8. Each section (function, code block, loop, whatever) must be explained
 9. All unused variables and code must be removed (debugging code commented out may remain)
