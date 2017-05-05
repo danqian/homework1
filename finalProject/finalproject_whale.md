@@ -13,7 +13,7 @@ The second system is used for humidification. I would like to use the way to rep
 the most troublesome part of the Bluetooth installation and connection. I learned the tutorial on the computer and installed the Bluetooth device on the vehicle. I have defined the Bluetooth control panel buttons to control the movement of the entire vehicle. For example, pressing 1 control the Servo motor up and down a specific angle to humidify; pressing the left button will let the left of the DC motor to stop turning and the vehicle turn left. In order to control the DC motor I learned and used H-Brige. It allows the DC motor to rotate forward, reverse or stop, which gives me a good control over the direction of the vehicle.
  
 ### 3. Accurate schematic
- ![](images/IMG_2072.JPG)
+ ![](images/whale-humidifer_schematic.jpg)
  
 ### 4. Parts list (major or unique parts, not LEDs, wire, etc.)
 #### General:
