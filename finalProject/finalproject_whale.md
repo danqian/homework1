@@ -40,7 +40,7 @@ Plastic shell of whale shape X1
 Plastic Connector(Connect Watercontainer and shell) X1
 
 #### 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
-- Switches look like this: ![](stoolmodular.55.jpg)
+- Switches look like this: ![](image/IMG_2072.jpg)
 
 
 5. A short video (cellphone is fine) of the operational project
