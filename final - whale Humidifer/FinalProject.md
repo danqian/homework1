@@ -1,4 +1,4 @@
-Project writeup due May 8 9am, all on Github
+### Project writeup due May 8 9am, all on Github
 1. Describe goals of project briefly
 I want to explore a new way of humidification and make it more interesting. People can manipulate the whale and humidify where they want.
 
@@ -34,7 +34,7 @@ AGPtek Aluminum Mini Mist Maker 24V X1
 
 
 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
-		- Switches look like this: ![](homework1/final - whale Humidifer/stoolmodular.55.jpg)
+- Switches look like this: ![](homework1/final - whale Humidifer/stoolmodular.55.jpg)
 5. A short video (cellphone is fine) of the operational project
 6. Program(s) must be well commented
 7. Each variable must have a meaningful name
