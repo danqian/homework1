@@ -43,18 +43,25 @@ Plastic Connector(Connect Watercontainer and shell) X1
 - Circuit under the vehicle: ![](images/IMG_2513.JPG)
 
 - shell was lifted and put down: ![](images/IMG_2519.JPG)
-- ![](images/IMG_2520.JPG)
+ ![](images/IMG_2520.JPG)
 
 - clear view of lifted shell: ![](images/IMG_2521.JPG)
 
 - Back view and bottom view: ![](images/IMG_2523.JPG)
-- ![](images/IMG_2522.JPG)
+ ![](images/IMG_2522.JPG)
 
 - ring to fix the water container: ![](images/IMG_2524.JPG)
 
 - lifting system experiment: ![](images/IMG_2072.JPG)
 
 - Useing screws to fix wheels make the structure more reliable: ![](images/IMG_2304.JPG)
+
+- Experiments: How structures influence shapes of Mist: ![](images/test1.jpg)
+ ![](images/test2.jpg)
+ ![](images/test33.jpg)
+ ![](images/test4.jpg)
+
+
 
 
 5. A short video (cellphone is fine) of the operational project
