@@ -1,5 +1,5 @@
 ### 1. Describe goals of project briefly
-#### I want to explore a new way of humidification and make it more interesting. People can manipulate the whale and humidify where they want.
+I want to explore a new way of humidification and make it more interesting. People can manipulate the whale and humidify where they want.
  
 ### 2. Describe how, from a technical point of view, your choice of hardware and software achieves that goal
 #### For hardware
@@ -32,6 +32,12 @@ Caster X2
 Servo Motor X1
 
 AGPtek Aluminum Mini Mist Maker 24V X1
+
+Watercontainer X1
+
+Plastic shell of whale shape X1
+
+Plastic Connector(Connect Watercontainer and shell) X1
 
 #### 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
 - Switches look like this: ![](stoolmodular.55.jpg)
