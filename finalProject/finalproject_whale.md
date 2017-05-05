@@ -40,30 +40,24 @@ Plastic shell of whale shape X1
 Plastic Connector(Connect Watercontainer and shell) X1
 
 #### 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
-- Switches look like this: ![](images/IMG_2513.JPG)
+- Circuit under the vehicle: ![](images/IMG_2513.JPG)
 
-- Switches look like this: ![](images/IMG_2519.JPG)
+- shell was lifted and put down: ![](images/IMG_2519.JPG)
+- ![](images/IMG_2520.JPG)
 
-- Switches look like this: ![](images/IMG_2520.JPG)
+- clear view of lifted shell: ![](images/IMG_2521.JPG)
 
-- Switches look like this: ![](images/IMG_2521.JPG)
+- Back view and bottom view: ![](images/IMG_2523.JPG)
+- ![](images/IMG_2522.JPG)
 
-- Switches look like this: ![](images/IMG_2523.JPG)
+- ring to fix the water container: ![](images/IMG_2524.JPG)
 
-- Switches look like this: ![](images/IMG_2522.JPG)
+- lifting system experiment: ![](images/IMG_2072.JPG)
 
-- Switches look like this: ![](images/IMG_2524.JPG)
-
-- Switches look like this: ![](images/IMG_2072.JPG)
-
-- Switches look like this: ![](images/IMG_2304.JPG)
-
+- Useing screws to fix wheels make the structure more reliable: ![](images/IMG_2304.JPG)
 
 
 5. A short video (cellphone is fine) of the operational project
 
-6. Program(s) must be well commented
-[Code](homework1/finalProject/code_finalproject)
-7. Each variable must have a meaningful name
-8. Each section (function, code block, loop, whatever) must be explained
-9. All unused variables and code must be removed (debugging code commented out may remain)
+6. [Code](https://github.com/danqian/homework1/blob/master/finalProject/code_finalproject)
+
