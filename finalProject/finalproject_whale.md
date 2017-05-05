@@ -1,0 +1,51 @@
+### 1. Describe goals of project briefly
+I want to explore a new way of humidification and make it more interesting. People can manipulate the whale and humidify where they want.
+ 
+### 2. Describe how, from a technical point of view, your choice of hardware and software achieves that goal
+#### For hardware
+The whale humidifier has two working systems.
+The first is for walking. I use the Bluetooth accessories, it can be wirelessly connected to the user interface on the phone. People can be more free to control the vehicle and humidification system. I used two DC motors to drive the vehicle and change the direction of the vehicle by controlling the motor rotation. The two caster around the vehicle helps to support the vehicle and keep the balance.
+
+The second system is used for humidification. I would like to use the way to replace the traditional fan for humidification, because in such a way, the spray of water mist is assembled rather than linear, which gives the user a different experience. In order to achieve this function, I tried a lot of ways. Eventually I chose to use the Servo motor to drive the entire shell up and down to achieve the final results. In this way, the fog stored in the bag is quickly extruded by squeezing the plastic bag connecting the housing and the water tank to achieve the fog effect. I also made a plasitc shell by vacuum forming. Due to light weight of plastic shell and bag, the Servo works pretty effective and the result looks great.
+ 
+#### For software
+the most troublesome part of the Bluetooth installation and connection. I learned the tutorial on the computer and installed the Bluetooth device on the vehicle. I have defined the Bluetooth control panel buttons to control the movement of the entire vehicle. For example, pressing 1 control the Servo motor up and down a specific angle to humidify; pressing the left button will let the left of the DC motor to stop turning and the vehicle turn left. In order to control the DC motor I learned and used H-Brige. It allows the DC motor to rotate forward, reverse or stop, which gives me a good control over the direction of the vehicle.
+ 
+### 3. Accurate schematic
+ 
+### 4. Parts list (major or unique parts, not LEDs, wire, etc.)
+#### General:
+Arduino Uno X1
+
+Adafruit Bluefruit LE UART Friend X1
+
+9v battery X4
+
+#### Driving System:
+H-brige X1
+
+DC Motor X2
+
+Caster X2
+
+#### Humidification:
+Servo Motor X1
+
+AGPtek Aluminum Mini Mist Maker 24V X1
+
+Watercontainer X1
+
+Plastic shell of whale shape X1
+
+Plastic Connector(Connect Watercontainer and shell) X1
+
+#### 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
+- Switches look like this: ![](stoolmodular.55.jpg)
+
+
+5. A short video (cellphone is fine) of the operational project
+
+6. Program(s) must be well commented
+7. Each variable must have a meaningful name
+8. Each section (function, code block, loop, whatever) must be explained
+9. All unused variables and code must be removed (debugging code commented out may remain)
