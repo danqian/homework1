@@ -42,7 +42,7 @@ Plastic shell of whale shape X1
 Plastic Connector(Connect Watercontainer and shell) X1
 
 #### 4. A few pictures of overall project plus some close ups of the electronics and any mechanism (cellphone is fine)
-- Circuit under the vehicle: ![](images/IMG_2513.JPG)
+- Circuit under the vehicle(Due to the limited hight under the vehicle, I set a bread beside the Arduino instead of welding a shield): ![](images/IMG_2513.JPG)
 
 - shell was lifted and put down: ![](images/IMG_2519.JPG)
  ![](images/IMG_2520.JPG)
