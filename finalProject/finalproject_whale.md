@@ -63,7 +63,7 @@ Plastic Connector(Connect Watercontainer and shell) X1
  ![](images/test33.jpg)
  ![](images/test4.jpg)
 
-5. A short video (cellphone is fine) of the operational project
+5. [video of the operational project](https://github.com/danqian/homework1/blob/master/finalProject/whale.mp4)
 
 6. [Code](https://github.com/danqian/homework1/blob/master/finalProject/code_finalproject)
 
