@@ -1,5 +1,5 @@
 ### 1. Describe goals of project briefly
-I want to explore a new way of humidification and make it more interesting. People can manipulate the whale and humidify where they want.
+I want to explore a new way of humidification and make it more interesting. People can manipulate the whale and humidify where they want. By compressing the air, people can produce ring or clumps of fog.
 - Original proposal: ![](images/plan.jpg)
  
 ### 2. Describe how, from a technical point of view, your choice of hardware and software achieves that goal
@@ -56,7 +56,11 @@ Plastic Connector(Connect Watercontainer and shell) X1
 
 - lifting system experiment: ![](images/IMG_2072.JPG)
 
-- Useing screws to fix wheels make the structure more reliable: ![](images/IMG_2304.JPG)
+- Using screws to fix wheels make the structure more reliable: ![](images/IMG_2304.JPG)
+
+- Mockup of shell for vacuum forming: ![](images/IMG_2269.JPG)
+
+- Poster for interface show: ![](images/poster-RGB.jpg)
 
 - Experiments: How structures influence shapes of Mist: ![](images/test1.jpg)
  ![](images/test2.jpg)
